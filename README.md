@@ -1,5 +1,8 @@
 # TerarriumWled
+
 Simple Wi-Fi controlled RGBW lightning for a terrarium. USB and battery powered.
+
+<a href="content/terrarium.jpg"><img src="content/terrarium.jpg" align="center" width="300px"></a>
 
 # Simplified schematic
 
